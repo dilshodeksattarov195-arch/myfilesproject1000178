@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdave",
+        "uuid": 280884,
+        "checksum": "q8zou9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
